@@ -8,3 +8,8 @@ body {
   flex: 1;
 }
 
+.contact-page {
+  /* margin-left: 1vh; */
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
