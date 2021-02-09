@@ -1,3 +1,7 @@
+html, body {
+  overflow-x: hidden;
+}
+
 body {
   display: flex;
   min-height: 100vh;
@@ -9,7 +13,10 @@ body {
 }
 
 .contact-page {
-  /* margin-left: 1vh; */
   margin-top: 1vh;
   margin-bottom: 1vh;
+}
+
+.footer {
+  margin-top: 0.5rem;
 }
