@@ -12,6 +12,28 @@ body {
   flex: 1;
 }
 
+/* .title {
+  background-image: url("about_page_cover.jpeg");
+  opacity: 0.4;
+  padding: 0vh;
+  overflow: hidden;
+
+} */
+
+/* .hero {
+  background-image: url("../about_page_cover.jpeg");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  background-position: center center;
+} */
+
+.hero-body {
+  padding: 0px;
+}
+
 .contact-page {
   margin-top: 1vh;
   margin-bottom: 1vh;
