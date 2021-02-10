@@ -12,6 +12,10 @@ body {
   flex: 1;
 }
 
+.footer {
+  margin-top: 0.5rem;
+}
+
 /* .title {
   background-image: url("about_page_cover.jpeg");
   opacity: 0.4;
@@ -32,13 +36,14 @@ body {
 
 .hero-body {
   padding: 0px;
+  padding-bottom: 5vh;
+}
+
+.about_me {
+  margin-left: 5vh;
 }
 
 .contact-page {
   margin-top: 1vh;
   margin-bottom: 1vh;
-}
-
-.footer {
-  margin-top: 0.5rem;
 }
