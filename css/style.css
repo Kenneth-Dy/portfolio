@@ -16,6 +16,8 @@ body {
   margin-top: 0.5rem;
 }
 
+/* Keeping this commented out in case I want to change hero banner to a background image */
+
 /* .title {
   background-image: url("about_page_cover.jpeg");
   opacity: 0.4;
@@ -34,13 +36,18 @@ body {
   background-position: center center;
 } */
 
+.about_col {
+  margin-left: 0vh;
+  margin-right: 0vh;
+}
+
 .hero-body {
   padding: 0px;
   padding-bottom: 5vh;
 }
 
-.about_me {
-  margin-left: 1vh;
+.about_me .social {
+  /* margin-left: 1vh; */
 }
 
 .contact-page {
