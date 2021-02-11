@@ -21,6 +21,21 @@ body {
   margin-right: 0;
 }
 
+.about_col {
+  margin-left: 0vh;
+  margin-right: 0vh;
+}
+
+.hero-body {
+  padding: 0px;
+  padding-bottom: 5vh;
+}
+
+.contact-page {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
 /* Keeping this commented out in case I want to change hero banner to a background image */
 
 /* .title {
@@ -39,27 +54,4 @@ body {
   width: 100%;
   height: auto;
   background-position: center center;
-} */
-
-.about_col {
-  margin-left: 0vh;
-  margin-right: 0vh;
-}
-
-.hero-body {
-  padding: 0px;
-  padding-bottom: 5vh;
-}
-
-.about_me .social {
-  /* margin-left: 1vh; */
-}
-
-.contact-page {
-  margin-top: 1vh;
-  margin-bottom: 1vh;
-}
-
-/* .portfolio-head {
-  margin-top: 5vh;
 } */
