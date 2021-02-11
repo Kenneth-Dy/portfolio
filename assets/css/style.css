@@ -16,6 +16,11 @@ body {
   margin-top: 0.5rem;
 }
 
+.columns {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 /* Keeping this commented out in case I want to change hero banner to a background image */
 
 /* .title {
