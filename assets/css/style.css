@@ -36,6 +36,12 @@ body {
   margin-bottom: 1vh;
 }
 
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .column.is-one-third {
+    width: 60%;
+  }
+}
+
 /* Keeping this commented out in case I want to change hero banner to a background image */
 
 /* .title {
